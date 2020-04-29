@@ -1,5 +1,4 @@
-<script>
+
   var accountid = random(0, 999)
   text("Your Account Id is" 10, 10)
   text(accountid, 10, 30
-  </script>
